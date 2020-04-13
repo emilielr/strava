@@ -1,18 +1,14 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/623241/latest-rides/aa1a47045f65f38d41da8fb35e23d8373357ed43?show_rides=false' width='300'></iframe>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
+  
 }
 </script>
 
