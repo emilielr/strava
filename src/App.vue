@@ -19,6 +19,9 @@ export default {
 </script>
 
 <style>
+body{
+  background: whitesmoke;
+}
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -27,13 +30,12 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 
-iframe:not(:last-child) {
-  margin-bottom: 20px;
+iframe {
+  margin: 20px;
 }
 
 </style>
