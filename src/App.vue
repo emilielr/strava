@@ -8,6 +8,7 @@
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/623310/latest-rides/5c9c40a114b3db1cf3370e2106ff2c73b1f9a1c3?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/623368/latest-rides/4787a207557a9963a3e5ad439b448ba17d87b9f0?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/108144/latest-rides/9ca775291d850331f3852406014c2ac77fea76e7?show_rides=false' width='300'></iframe>
+    <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/546647/latest-rides/e74a3aa427856e7b570e094b6a6f39a38c332b2f?show_rides=false' width='300'></iframe>
   </div>
 </template>
 
@@ -20,6 +21,8 @@ export default {
 </script>
 
 <style>
+* {padding: 0;margin:0;}
+html,body {height: 100%; width: 100%;}
 body{
   background: whitesmoke;
 }
@@ -29,14 +32,16 @@ body{
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  padding: 20px;
 }
 
 iframe {
-  margin: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+
 }
 
 </style>
