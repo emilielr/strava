@@ -9,6 +9,7 @@
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/623368/latest-rides/4787a207557a9963a3e5ad439b448ba17d87b9f0?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/108144/latest-rides/9ca775291d850331f3852406014c2ac77fea76e7?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/546647/latest-rides/e74a3aa427856e7b570e094b6a6f39a38c332b2f?show_rides=false' width='300'></iframe>
+    <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/627287/latest-rides/e6bee1a84ab19c5487c7df657aaa02cff0fc0c45?show_rides=false' width='300'></iframe>
   </div>
 </template>
 
