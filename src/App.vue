@@ -22,7 +22,7 @@
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/640213/latest-rides/3c87d8fb1704418652c9e7f30729101221531a46?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/637480/latest-rides/3913b088b4080fdaf5e2eb1bd7cba38a2a227cf5?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/637774/latest-rides/19beb64fc981c4859294f267c6eb15b114d151a7?show_rides=false' width='300'></iframe>
-    <iframe allowtransparency frameborder='0' height='454' scrolling='no' src='https://www.strava.com/clubs/635644/latest-rides/d2f3735d661d09aba4be38e8382214e964937c07?show_rides=false' width='300'></iframe>
+    <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/635644/latest-rides/d2f3735d661d09aba4be38e8382214e964937c07?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/637052/latest-rides/d9068e4a97c62ded99301b6bf8ee74f4b33d35cf?show_rides=false' width='300'></iframe>
   </div>
 </template>
