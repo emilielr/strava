@@ -26,7 +26,7 @@
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/630739/latest-rides/e61b0691a1366e839bb13470776bff226581b675?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/623691/latest-rides/f6fbaef2c1fb8b2290b0b30f9bd0e5349d178812?show_rides=false' width='300'></iframe>
     <iframe allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/623310/latest-rides/5c9c40a114b3db1cf3370e2106ff2c73b1f9a1c3?show_rides=false' width='300'></iframe>
-
+    <p> Emilie er løk</p>
   </div>
 </template>
 
