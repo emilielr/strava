@@ -7,7 +7,6 @@
     <iframe id="abakus" allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/622520/latest-rides/a026c406d22eda97af1ca7cbe30088c44c038e3a?show_rides=false' width='300'></iframe>
     <iframe id="omega" allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/232813/latest-rides/e6d07cf4484d12cc95df22b3f102db968bcf871b?show_rides=false' width='300'></iframe>
     <iframe id="bekk" allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/8433/latest-rides/a6513fe72d71c5979c5247767a350b43cfa476ce?show_rides=false' width='300'></iframe>
-
   -->
 
   <!-- Online, MiT, Vivas, Delta, Volvox, KoM, Nucleus, Timini, Nabla, Elektra, Thilde, Spanskrøret, HC -->    
@@ -24,6 +23,7 @@
     <iframe id="spanskrøret" allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/622664/latest-rides/c217105223a08ff63c92409a7a8275465b373eb0?show_rides=false' width='300'></iframe>
     <iframe id="timini" allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/108144/latest-rides/9ca775291d850331f3852406014c2ac77fea76e7?show_rides=false' width='300'></iframe>
     <iframe id="nabla" allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/546647/latest-rides/e74a3aa427856e7b570e094b6a6f39a38c332b2f?show_rides=false' width='300'></iframe>
+    <iframe id="aarhonen" allowtransparency frameborder='0' height='160' scrolling='no' src='https://www.strava.com/clubs/554437/latest-rides/f76051fe046f7030ba9fbb4002581c208b8c30e2?show_rides=false' width='300'></iframe>
   </div>
 </template>
 
